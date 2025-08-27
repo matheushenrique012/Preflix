@@ -6,7 +6,7 @@ body {
 
 
 header {
-    color: #ff5757;
+    color: #000000;
     font-size: 50px;
     font-family: "Great Vibes", serif;
 }
@@ -30,7 +30,7 @@ h2 {
 }
  
 .chamada {
-    color:#344c9c;
+    color:#7bff00;
     background: #9494cc;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -67,5 +67,5 @@ img{
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid blueviolet;
+    border: 3px solid rgb(255, 0, 0);
 }
